@@ -12,13 +12,13 @@ let idade = 19
 
 const Ishuman = 'true'
 
-// STRING = 
+// STRING = tudo aquilo que está em forma de texto dentro do código
 let string = 'teste string'
 
 let number = 42069
 
-// BOOLEAN = 
-let isHuman =true
+// BOOLEAN = afirmação de que se uma variavél é true ou false (exemplo abaixo.)
+let isHuman = true
 
 // NULL = 
 let zero = null
@@ -26,7 +26,7 @@ let zero = null
 // UNDEFINED = 
 let nothing = undefined
 
-// OBJETO =
+// OBJETO = objeto 👍 (${} comando para usar )
 let objeto = {}
 console.log(`Moro em ${cidade}`)
 console.log(`Tenho ${idade} anos `)
